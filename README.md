@@ -3,7 +3,7 @@
 Welcome to my **Probability & Statistics** repository, designed for beginners and aspiring data enthusiasts who want to build a solid foundation in statistics and probability. This project includes notes, examples, and exercises to help you understand key concepts and apply them in real-world scenarios.
 
 ## Project Overview
-<p float="center"> <img src="image.png" width="30%" />
+<p float="center"> <img src="Image.png" width="70%" />
 
 ## Features
 
